@@ -6,4 +6,5 @@ For Practicing Github
 
 2.AS per the client requirements ,we all need to add postgresql database for this project.
 
+3.use the angular for front end.
 
